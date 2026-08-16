@@ -4,7 +4,7 @@ const STUDENTS = [
     "Sharon Ceballos", "Miguel Ciro", "Marlys Contreras", "Emily Gamez",
     "Mariana Garay", "Adriana Gutierrez", "Valentina Hernandez", "Santiago Herrera",
     "Marinella Lobo", "Salome Lopez", "Mateo Marquez", "Emiliano Morillo",
-    "Zaira Palacio", "Elias Palacios", "Lorena Perez", "Maria Piñeres",
+    "Zaira Palacio", "Mauricio Palacios", "Lorena Perez", "Maria Piñeres",
     "Elias Ramos", "Lezly Restrepo", "Samuel Ricard", "Emily Rincon",
     "Jimena Rios", "Nathalia Romero", "Shara Silva", "Evelin Solera",
     "Jawin Suarez", "David Vanegas", "Nikol Vargas", "Stiven Vasquez",
